@@ -27,4 +27,4 @@ def fact(n):
     return total
 
 
-print(fact(1))
+
